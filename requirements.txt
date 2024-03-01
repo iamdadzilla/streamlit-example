@@ -1,3 +1,4 @@
+python
 openai
 streamlit
 streamlit_chat
